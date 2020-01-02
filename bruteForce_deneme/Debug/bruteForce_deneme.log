@@ -1,0 +1,4 @@
+﻿  bruteForce_deneme.cpp
+C:\Users\ciren\Desktop\bruteForce_deneme (1)\bruteForce_deneme\bruteForce_deneme\bruteForce_deneme.cpp(110,12): warning C4244:  'başlatılıyor': 'clock_t' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\ciren\Desktop\bruteForce_deneme (1)\bruteForce_deneme\bruteForce_deneme\bruteForce_deneme.cpp(110,21): warning C4244:  'başlatılıyor': 'clock_t' - 'float' dönüşümü; veri kaybı olabilir
+  bruteForce_deneme.vcxproj -> C:\Users\ciren\Desktop\bruteForce_deneme (1)\bruteForce_deneme\Debug\bruteForce_deneme.exe
